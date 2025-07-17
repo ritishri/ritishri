@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritishri&label=Profile%20views&color=0e75b6&style=flat" alt="ritishri" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScripts, React Js, Tailwind, MERN, MySql, Postman, FatAPI**
+- 🌱 I’m currently learning **HTML, CSS, JavaScripts, React Js, Tailwind, MERN, MySql, Postman, FastAPI**
 
 - 📫 How to reach me **pshri0084@gmail.com**
 
